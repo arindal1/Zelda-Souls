@@ -8,7 +8,8 @@ Zelda Souls is a Python game developed using the Pygame library. It is a 2D acti
 
 ## Introduction
 
-Zelda Souls is a project created for educational purposes. The game features a character navigating through various levels, battling enemies, and solving puzzles in a top-down perspective.
+Zelda Souls is a project created for educational purposes. The game features a character navigating through various levels, battling enemies, and solving puzzles in a top-down perspective. <br>
+"The Legend of Zelda" is a highly influential and long-running action-adventure video game series developed and published by Nintendo. Key elements of the series include exploration, puzzle-solving, and action-oriented gameplay set in a fantasy world. Players control Link from a top-down or third-person perspective. "Dark Souls" is a critically acclaimed action role-playing video game developed by FromSoftware and published by Bandai Namco Entertainment. it has a reputation for its challenging gameplay, intricate level design, and deep lore.
 
 ## Features
 
