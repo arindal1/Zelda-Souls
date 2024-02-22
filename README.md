@@ -4,6 +4,7 @@
 
 Zelda Souls is a Python game developed using the Pygame library. It is a 2D action-adventure game inspired by the Legend of Zelda series with Dark Souls like RPG elements.
 
+![ss1](resources/repo-images/112.png)
 
 ## Introduction
 
@@ -47,6 +48,10 @@ python main.py
 ```
 
 Use the arrow keys to move the character and interact with objects. Press 'M' to toggle the in-game menu.
+
+![ss2](resources/repo-images/113.png)
+![ss3](resources/repo-images/114.png)
+
 
 ## Credits
 
