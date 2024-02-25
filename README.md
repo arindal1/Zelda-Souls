@@ -58,6 +58,7 @@ Use the arrow keys to move the character and interact with objects. Press 'M' to
 
 - Graphics: [Pixel-Boy & AAA](https://pixel-boy.itch.io/ninja-adventure-asset-pack).
 - Inspired by: [Legend of Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda) & [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls).
+- Tutorial: [Clear Code](https://www.youtube.com/watch?v=QU1pPzEGrqw&t=26936s)
 
 ## License
 
